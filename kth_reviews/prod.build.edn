@@ -1,0 +1,2 @@
+{:optimizations :advanced
+ :output-to "resources/public/js/compiled/main.js"}
